@@ -1,6 +1,6 @@
 # datasets
 Sets de datos para ejercicios de estudiantes
-## Carpeta students
+## Carpeta student
 Datos obtenidos de la página https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
 
