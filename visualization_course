@@ -1,0 +1,5 @@
+Curso sobre:
+import chart_studio.plotly as py
+import plotly.graph_objects as go
+import plotly.express as px
+
