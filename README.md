@@ -1,5 +1,5 @@
-# datasets
-Sets de datos para ejercicios de estudiantes
+# Ejercicios de Python
+Ejercicios de Python dirigidos a estudiantes de Clubes de Ciencia México
 ## Carpeta student
 Datos obtenidos de la página https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
